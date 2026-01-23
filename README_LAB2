@@ -1,0 +1,15 @@
+công nghệ sử dụng gồm
+-Thư viện numpy
+-Tạo mảng dữ liệu 150 × 5
+-Cắt dữ liệu theo cột
+-Chia dữ liệu train / test
+-Tách dữ liệu thành nhiều tập không chồng chéo
+cách hoạt động
+Bước 1: Tạo dữ liệu
+Bước 2: Tách dữ liệu đầu vào và đầu ra
+Bước 3: Chia dữ liệu huấn luyện và kiểm tra
+Bước 4: Tạo nhiều tập huấn luyện không chồng chéo
+
+kết quả
+bài 1
+
